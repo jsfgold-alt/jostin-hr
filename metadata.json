@@ -1,0 +1,6 @@
+{
+  "name": "DataCore Enterprise Platform",
+  "description": "Kendali terpusat direktori pengguna enterprise, autentikasi dua faktor (2FA), dan hierarki peran keamanan DataCore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
